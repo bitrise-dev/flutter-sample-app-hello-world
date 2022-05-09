@@ -4,6 +4,7 @@ This is a simple Flutter (Dart) app with a single view. The intention of this ap
 
 <p align="center" spacing="10">
     <kbd>
+        <img src="media/preview.png" height="500px" />
     </kbd>
 </p>
 
